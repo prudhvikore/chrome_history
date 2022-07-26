@@ -1,0 +1,51 @@
+.list-item {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  list-style-type: none;
+  margin-bottom: 0;
+}
+
+.time {
+  font-size: 12px;
+  font-weight: 600;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 15px;
+  color: #475569;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.logo-d {
+  height: 20px;
+  width: 20px;
+  margin-right: 12px;
+}
+
+.title-item {
+  font-size: 13px;
+  font-weight: 600;
+  color: #2c2b2b;
+  margin-right: 6px;
+}
+
+.url {
+  font-size: 13px;
+  color: #64748b;
+}
+
+.delete-img {
+  margin-right: 12px;
+}
+
+.button {
+  border: none;
+  background-color: white;
+  outline: none;
+  cursor: pointer;
+}
